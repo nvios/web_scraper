@@ -4,3 +4,5 @@ For this project I created an Instagram bot to access a profile, gather informat
 automatically like and follow people with similar interests and hashtags. The bot collects and stores information regarding 
 liked pictures and followed profiles allowing to maximize the followed-to-followers ratio. Followed people that do not increase
 the engagement beyond a certain treshold are automatically unfollowed after a set time.
+
+## Click <a href="https://nvios.github.io/luca_bontempi/"><strong>here</strong></a> to see my latest projects!
